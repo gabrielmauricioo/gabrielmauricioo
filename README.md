@@ -1,4 +1,4 @@
-<h2 align="left">🌟 Olá! Eu sou Gabriel Maurício <br>💻 Desenvolvedor apaixonado por criar soluções inovadoras. <br>🚀 Sempre em busca de novos desafios e aprendizados!</h2>
+<h2 align="left">🌟 Olá! Eu sou Gabriel Maurício <br> <br>🚀 Sempre em busca de novos desafios e aprendizados!</h2>
 
 ###
 
